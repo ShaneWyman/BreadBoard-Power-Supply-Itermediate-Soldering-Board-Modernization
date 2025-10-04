@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BreadBoard Power Supply")(type "KiCad")(uri "C:/Users/shane/Documents/GitHub/BreadBoard-Power-Supply-Itermediate-Soldering-Board-Modernization/BreadBoard Power Supply.pretty")(options "")(descr ""))
+)
