@@ -1,4 +1,4 @@
-26438564314154775
+26440324235774047
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -440,6 +440,13 @@ LED_APT3216QBC_D
 0
 2
 2
+BreadBoard Power Supply
+RubberFoot
+
+
+0
+1
+1
 BreadBoard Power Supply
 SW_GPI-152-3013_CWI
 

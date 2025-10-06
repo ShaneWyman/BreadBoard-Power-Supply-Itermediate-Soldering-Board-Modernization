@@ -1,0 +1,103 @@
+(footprint "RubberFoot"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.25 6.98 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "775311df-53f3-430c-9058-676c245df9f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "RubberFoot"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7d9cd3e1-e980-48b1-b900-d3c11362b4d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85cd45ed-e8eb-4518-a936-1d7d95b17ef9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6949820-87ca-44a5-bde1-9c4b2689e2e6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 10.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "27d28b10-c6af-4e8f-bee9-3a6c51865b1a")
+	)
+	(fp_text user "HEYCO2536"
+		(at -4.01 5.04 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "525872bb-1b35-4af2-b973-80ca53248f6f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.11 17.71 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7c2a01d0-6735-4315-a2d3-6aacd8f72b43")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 6.25 6.25)
+		(drill 5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ef7db343-5c25-4a7c-9ace-ad461eba8a27")
+	)
+	(embedded_fonts no)
+)
