@@ -1,4 +1,4 @@
-26440324235774047
+26450883739347325
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -385,6 +385,13 @@ battery CR-3032 coin cell vertical
 2
 2
 BreadBoard Power Supply
+2171750001
+217175-0001
+Connector
+0
+10
+10
+BreadBoard Power Supply
 2171750001_MOL
 
 
@@ -398,6 +405,13 @@ BreadBoard Power Supply
 0
 2
 2
+BreadBoard Power Supply
+BOM
+
+
+0
+0
+0
 BreadBoard Power Supply
 DIO_RB160VAM_ROM-L
 
@@ -434,6 +448,13 @@ NRS4012T4R7MDGJV
 2
 2
 BreadBoard Power Supply
+IND_PCC-M0748M-LE_PAN-L
+
+ETQ-P4M220KFM 
+0
+2
+2
+BreadBoard Power Supply
 LED_APT3216QBC_D
 
 
@@ -448,12 +469,33 @@ RubberFoot
 1
 1
 BreadBoard Power Supply
+SOIC127P600X175-8N
+SO 8L
+Integrated Circuit
+0
+8
+8
+BreadBoard Power Supply
 SW_GPI-152-3013_CWI
 
 GPI-152-3013 
 0
 10
 10
+BreadBoard Power Supply
+logo
+
+
+0
+0
+0
+BreadBoard Power Supply
+vt_logo
+
+
+0
+0
+0
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
